@@ -1,0 +1,26 @@
+{
+  "name": "W12D02_MySQL",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mysql2": "^2.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "nodemon main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Khuldoonqataesheh/W12D02_MySQL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Khuldoonqataesheh/W12D02_MySQL/issues"
+  },
+  "homepage": "https://github.com/Khuldoonqataesheh/W12D02_MySQL#readme"
+}
